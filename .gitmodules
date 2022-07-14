@@ -1,3 +1,21 @@
 [submodule "Piscine-Java-day-00"]
 	path = Piscine-Java-day-00
 	url = https://github.com/Ferundal/Piscine-Java-day-00.git
+[submodule "Piscine-Java-day-01"]
+	path = Piscine-Java-day-01
+	url = https://github.com/Ferundal/Piscine-Java-day-01.git
+[submodule "Piscine-Java-day-02"]
+	path = Piscine-Java-day-02
+	url = https://github.com/Ferundal/Piscine-Java-day-02.git
+[submodule "Piscine-Java-day-03"]
+	path = Piscine-Java-day-03
+	url = https://github.com/Ferundal/Piscine-Java-day-03.git
+[submodule "Piscine-Java-day-04"]
+	path = Piscine-Java-day-04
+	url = https://github.com/Ferundal/Piscine-Java-day-04.git
+[submodule "Piscine-Java-day-05"]
+	path = Piscine-Java-day-05
+	url = https://github.com/Ferundal/Piscine-Java-day-05.git
+[submodule "Piscine-Java-day-06"]
+	path = Piscine-Java-day-06
+	url = https://github.com/Ferundal/Piscine-Java-day-06.git
