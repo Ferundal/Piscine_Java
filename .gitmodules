@@ -31,3 +31,6 @@
 [submodule "Piscine-Java-day-09"]
 	path = Piscine-Java-day-09
 	url = https://github.com/Ferundal/Piscine-Java-day-09.git
+[submodule "Piscine-Java-rush-01"]
+	path = Piscine-Java-rush-01
+	url = https://github.com/Ferundal/Piscine-Java-rush-01.git
